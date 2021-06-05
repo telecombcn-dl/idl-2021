@@ -54,14 +54,14 @@ fa-icon: info
 
 ### Teaching Assistants
 <div class="author">
-    <a href="https://imatge.upc.edu/web/people/xavier-giro" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/XaviGiro.jpg"></div>
-      <div>Xavier Giró</div>
+    <a href="https://www.linkedin.com/in/gerard-gallego/" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/GerardGallego.jpg"></div>
+      <div>Gerard Gallego</div>
     </a>
 </div>
 <div class="author">
-<a href="https://imatge.upc.edu/web/people/ferran-marques" target="_blank">
-   <div class="authorphoto"><img src="img/instructors/FerranMarques.jpg"></div>
-   <div>Ferran Marqués</div>
+<a href="https://www.linkedin.com/in/albertmosellamontoro/" target="_blank">
+   <div class="authorphoto"><img src="img/instructors/AlbertMosella.jpg"></div>
+   <div>Albert Mosella</div>
 </a>
 </div>
