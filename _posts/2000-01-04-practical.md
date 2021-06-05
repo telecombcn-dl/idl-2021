@@ -8,11 +8,10 @@ fa-icon: check
 ## Practical details
 
 * Study Programs: Bachelor degrees at at [ETSETB TelecomBCN](http://etsetb.upc.edu/ca) and [Centre de Formació Interdisciplinària Superior (CFIS)(http://cfis.upc.edu/ca)  from the [Universitat Politecnica de Catalunya](http://www.upc.edu/?set_language=en).
-* Course code and official guide: [230325 - IDL](http://infoteleco.upc.edu/documents/guia_docent/assignatures/SisAud/230325.pdf)
+* Course code and official guide: [230325 - IDL](https://www.upc.edu/content/grau/guiadocent/pdf/en/230325)
 * ECTS credits: 2 ECTS
 * Teaching language: English
-* Semester: Autumn 2018
-* Class Schedule: 22, 23, 24, 27 & 28 January 2020 (2pm-4pm Lectures, 4pm-6pm Lab)
+* Semester: Spring 2021
+* Class Schedule: 21, 22, 23, 28, 29, 30 June & 1 July 2021 (9:30am-12:30pm Lectures & Lab)
 * Capacity: 40 students
-* Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
-* Course on [Piazza](https://piazza.com/upc/winter2020/230235/home)
+* Location: [Campus Nord UPC](https://imatge.upc.edu/web/contact)
