@@ -9,7 +9,7 @@ fa-icon: info
 ### Instructors 
 <div class="author">
     <a href="https://imatge.upc.edu/web/people/xavier-giro" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/XavierGiro.jpg"></div>
+      <div class="authorphoto"><img src="img/instructors/XaviGiro.jpg"></div>
       <div>Xavier Giró</div>
     </a>
 </div>
@@ -52,3 +52,16 @@ fa-icon: info
 </div>
 <br>
 
+### Teaching Assistants
+<div class="author">
+    <a href="https://imatge.upc.edu/web/people/xavier-giro" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/XaviGiro.jpg"></div>
+      <div>Xavier Giró</div>
+    </a>
+</div>
+<div class="author">
+<a href="https://imatge.upc.edu/web/people/ferran-marques" target="_blank">
+   <div class="authorphoto"><img src="img/instructors/FerranMarques.jpg"></div>
+   <div>Ferran Marqués</div>
+</a>
+</div>
