@@ -1,1 +1,1 @@
-![IDL 2020 Poster](./idl-2020-poster.jpg)
+![IDL 2021 Poster](./idl-2021-poster.jpg)
