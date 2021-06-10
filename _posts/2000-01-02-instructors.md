@@ -55,22 +55,22 @@ fa-icon: info
 ### Teaching Assistants
 <div class="author">
     <a href="https://www.linkedin.com/in/gerard-gallego/" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/GerardGallego.jpg"></div>
-      <div>Gerard Gallego</div>
-	  <div>(Lab)</div>
+		<div class="authorphoto"><img src="img/instructors/GerardGallego.jpg"></div>
+		<div>Gerard Gallego</div>
     </a>
+	<div>(Lab)</div>
 </div>
 <div class="author">
-<a href="https://www.linkedin.com/in/albertmosellamontoro/" target="_blank">
-   <div class="authorphoto"><img src="img/instructors/AlbertMosella.jpg"></div>
-   <div>Albert Mosella</div>
-</a>
-<div>(Lab)</div>
+	<a href="https://www.linkedin.com/in/albertmosellamontoro/" target="_blank">
+		<div class="authorphoto"><img src="img/instructors/AlbertMosella.jpg"></div>
+		<div>Albert Mosella</div>
+	</a>
+	<div>(Lab)</div>
 </div>
 <div class="author">
-<a href="https://www.linkedin.com/in/biel-tura/" target="_blank">
-   <div class="authorphoto"><img src="img/instructors/BielTura.jpg"></div>
-   <div>Biel Tura</div>
-   <div>(Web)</div>
-</a>
+	<a href="https://www.linkedin.com/in/biel-tura/" target="_blank">
+		<div class="authorphoto"><img src="img/instructors/BielTura.jpg"></div>
+		<div>Biel Tura</div>
+	</a>
+	<div>(Web)</div>
 </div>
