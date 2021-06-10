@@ -57,6 +57,7 @@ fa-icon: info
     <a href="https://www.linkedin.com/in/gerard-gallego/" target="_blank">
       <div class="authorphoto"><img src="img/instructors/GerardGallego.jpg"></div>
       <div>Gerard Gallego</div>
+	  <div>(Lab)</div>
     </a>
 </div>
 <div class="author">
