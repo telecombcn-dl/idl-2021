@@ -65,4 +65,12 @@ fa-icon: info
    <div class="authorphoto"><img src="img/instructors/AlbertMosella.jpg"></div>
    <div>Albert Mosella</div>
 </a>
+<div>(Lab)</div>
+</div>
+<div class="author">
+<a href="https://www.linkedin.com/in/biel-tura/" target="_blank">
+   <div class="authorphoto"><img src="img/instructors/BielTura.jpg"></div>
+   <div>Biel Tura</div>
+   <div>(Web)</div>
+</a>
 </div>
