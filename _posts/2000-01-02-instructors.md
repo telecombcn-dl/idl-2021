@@ -14,21 +14,9 @@ fa-icon: info
     </a>
 </div>
 <div class="author">
-<a href="https://imatge.upc.edu/web/people/ferran-marques" target="_blank">
-   <div class="authorphoto"><img src="img/instructors/FerranMarques.jpg"></div>
-   <div>Ferran Marqués</div>
-</a>
-</div>
-<div class="author">
     <a href="https://imatge.upc.edu/web/people/josep-ramon-morros" target="_blank">
       <div class="authorphoto"><img src="img/instructors/RamonMorros.jpg"></div>
       <div>Ramon Morros</div>
-    </a>
-</div>
-<div class="author">
-    <a href="https://imatge.upc.edu/web/people/montse-pardas" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/MontsePardas.jpg"></div>
-      <div>Montse Pardas</div>
     </a>
 </div>
 <br>
